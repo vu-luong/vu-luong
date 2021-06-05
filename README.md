@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Vu Luong 👋
+I'm a Machine Learning researcher at Griffith University, an open-source contributors at [Young Monkeys Org](https://github.com/youngmonkeys)
 <!--
 **vu-luong/vu-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Vu-Luong's GitHub stats](https://github-readme-stats.vercel.app/api?username=vu-luong)](https://github.com/vu-luong)
