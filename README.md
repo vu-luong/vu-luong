@@ -1,5 +1,5 @@
 ### Vu Luong 👋
-I'm a Machine Learning researcher at Griffith University, an open-source contributors at [Young Monkeys Org](https://github.com/youngmonkeys)
+I'm a Machine Learning researcher at Griffith University, an open-source contributor at [Young Monkeys Org](https://github.com/youngmonkeys)
 <!--
 **vu-luong/vu-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
