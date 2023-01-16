@@ -1,5 +1,5 @@
 ### Vu Luong 👋
-I'm a Machine Learning researcher at Griffith University, an open-source contributor at [Young Monkeys Org](https://github.com/youngmonkeys)
+I'm a core contributor at [Young Monkeys open-source organisation](https://github.com/youngmonkeys), a software engineer at [Jacobi](jacobistrategies.com)
 <!--
 **vu-luong/vu-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Vu-Luong's GitHub stats](https://github-readme-stats.vercel.app/api?username=vu-luong)](https://github.com/vu-luong)
+<!-- [![Vu-Luong's GitHub stats](https://github-readme-stats.vercel.app/api?username=vu-luong)](https://github.com/vu-luong/github-readme-stats) -->
