@@ -1,7 +1,7 @@
 ### Vu Luong 👋
 :rocket: Core contributor at [Young Monkeys](https://github.com/youngmonkeys) open-source organisation
 
-:computer: Software engineer at [Jacobi Strategies](jacobistrategies.com)
+:computer: Software engineer at [Jacobi Strategies]([jacobistrategies.com](https://www.jacobistrategies.com/site))
 <!--
 **vu-luong/vu-luong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
